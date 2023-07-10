@@ -1,2 +1,2 @@
 # 100DaysPython
-Just learning the python language.
+Learning and being consistent with Python

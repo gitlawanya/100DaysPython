@@ -1,2 +1,2 @@
 # 100DaysPython
-Learning and being consistent with Python
+Learning and trying to be consistent with Python for 100 days. 
